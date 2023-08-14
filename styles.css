@@ -1,7 +1,6 @@
 *{
     background-color: aquamarine;
 }
-<style>
 .flex-container {
   display: flex;
   flex-direction: column;
@@ -16,4 +15,3 @@
   line-height: 75px;
   font-size: 30px;
 }
-</style>
